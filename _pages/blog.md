@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blog/
-title: blog
+title: Devlog
 nav: true
 nav_order: 3
 pagination:
